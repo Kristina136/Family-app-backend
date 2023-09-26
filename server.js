@@ -17,6 +17,3 @@ app.listen(PORT, () => {
 console.log(`I AM LISTENNING ON PORT ${PORT}`)
 })
 
-//kristina71103
-//yjgtxcFuWsDmXBIp
-//mongodb+srv://kristina71103:<password>@cluster0.ngwel46.mongodb.net/?retryWrites=true&w=majority
